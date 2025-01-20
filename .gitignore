@@ -1,0 +1,4 @@
+# Ignore data and images folders
+./labs/lab0/data/
+./labs/lab0/images/
+
