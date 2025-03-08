@@ -1,0 +1,4 @@
+# Ignore data and images folders
+labs/setup/data/
+labs/setup/images/
+labs/img_classification/ignore_this
